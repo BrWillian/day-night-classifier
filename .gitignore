@@ -1,5 +1,7 @@
 input/
 model.hdf5
-valid/
-train/
+valid/visiveis
+valid/nvisiveis
+train/visiveis
+train/nvisiveis
 venv/
