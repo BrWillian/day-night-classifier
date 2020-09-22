@@ -1,1 +1,5 @@
-./input/
+input/
+model.hdf5
+valid/
+train/
+venv/
